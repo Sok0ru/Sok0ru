@@ -1,4 +1,7 @@
+
 <h1 align="center">Sok0ru</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Variable+Small+Semibol&weight=900&size=40&letterSpacing=extra+bold&duration=4000&pause=700&color=fff&background=FFFFFF00&center=true&random=true&width=600&height=70&lines=Developer;Student;Creator;Dreamy+realist" alt="Typing SVG" /></a>
 
 <p align="center">
   TypeScript, Vue и Python / Django.<br />
