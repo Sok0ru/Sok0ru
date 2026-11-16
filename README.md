@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Sok0ru</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Variable+Small+Semibol&weight=900&size=40&letterSpacing=extra+bold&duration=4000&pause=700&color=93A3C3&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&height=100&lines=Building+for+the+web;+Exploring+the+server+side+;Learning+by+making+;Dreamy+realist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Variable+Small+Semibol&weight=900&size=24&letterSpacing=extra+bold&duration=4000&pause=700&color=93A3C3&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&height=50&lines=Building+for+the+web;+Exploring+the+server+side+;Learning+by+making+;Dreamy+realist" alt="Typing SVG" style="margin: 0 auto, text-align: center" /></a>
 
 <br>
 <p data-importer="text" align="center">
