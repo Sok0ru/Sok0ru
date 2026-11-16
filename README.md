@@ -5,12 +5,24 @@
 </div>
 <h1 align="center">Sok0ru</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Variable+Small+Semibol&weight=900&size=24&letterSpacing=extra+bold&duration=4000&pause=700&color=93A3C3&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&height=50&lines=Building+for+the+web;+Exploring+the+server+side+;Learning+by+making+;Dreamy+realist" alt="Typing SVG" style="margin: 0 auto, text-align: center" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Variable+Small+Semibol&weight=900&size=24&letterSpacing=extra+bold&duration=4000&pause=700&color=93A3C3&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&height=50&lines=Building+for+the+web;+Exploring+the+server+side+;Learning+by+making+;Dreamy+realist" alt="Typing SVG" />
+  </a>
+</p>
 
 <br>
 <p data-importer="text" align="center">
   🌐 I build web applications and work on the servers behind them.<br>
   🌱 Learning by making, from the first interface to deployment.
+</p>
+<br>
+<p align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sok0ru/Sok0ru/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sok0ru/Sok0ru/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sok0ru/Sok0ru/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 </p>
 
 <br>
@@ -46,18 +58,11 @@
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
 </div>
 
-<br>
-<p align="center">
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sok0ru/Sok0ru/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sok0ru/Sok0ru/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sok0ru/Sok0ru/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-</p>
+
 
 <br>
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Sok0ru/Sok0ru/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Sok0ru/Sok0ru/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Sok0ru&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
